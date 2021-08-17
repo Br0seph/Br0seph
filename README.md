@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Br0seph
-- 👀 I’m interested in frontend technologies and cryptocurrency
+- 👀 I’m interested in frontend technologies
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on projects with a frontend slant (Angular, React)
 - 📫 How to reach me ... tbd
